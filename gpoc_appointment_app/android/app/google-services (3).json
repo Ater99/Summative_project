@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "337354171793",
+    "project_id": "gpoc-appointment-app-d0d3e",
+    "storage_bucket": "gpoc-appointment-app-d0d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337354171793:android:ec2e5f7b8f795fc364e630",
+        "android_client_info": {
+          "package_name": "com.example.gpoc_appointment_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337354171793-dgh156gdl7s1n4j8pn6ffklqnvfn7041.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG4d7RtryWq6peta5JK1r6_kIxUUFWeRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337354171793-dgh156gdl7s1n4j8pn6ffklqnvfn7041.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

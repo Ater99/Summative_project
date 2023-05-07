@@ -1,0 +1,6 @@
+{
+  "extends": [
+    "gpoc_appointment_app",
+    "./meta-view"
+  ]
+}
